@@ -1,6 +1,5 @@
 <template lang="html">
   <div class="back-top">
-    我是第一个组件
   </div>
 </template>
 
